@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\Lalo\\Projects\\AppWeb\\WebAPI\\WebAPI.csproj": {}
+    "F:\\Users\\Lalo\\Projects\\Github\\WebAPIWith.NET\\WebAPI.csproj": {}
   },
   "projects": {
-    "F:\\Users\\Lalo\\Projects\\AppWeb\\WebAPI\\WebAPI.csproj": {
+    "F:\\Users\\Lalo\\Projects\\Github\\WebAPIWith.NET\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\Lalo\\Projects\\AppWeb\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "F:\\Users\\Lalo\\Projects\\Github\\WebAPIWith.NET\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "F:\\Users\\Lalo\\Projects\\AppWeb\\WebAPI\\WebAPI.csproj",
+        "projectPath": "F:\\Users\\Lalo\\Projects\\Github\\WebAPIWith.NET\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Lalo\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\Lalo\\Projects\\AppWeb\\WebAPI\\obj\\",
+        "outputPath": "F:\\Users\\Lalo\\Projects\\Github\\WebAPIWith.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
